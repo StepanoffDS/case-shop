@@ -1,0 +1,56 @@
+[
+  {
+    "id": "el1",
+    "name": "Чехол Everstone Lucca Opacity для Iphone 14",
+    "img": "./img/catalog/Everstone-Lucca-Opacity.jpg",
+    "price": 600
+  },
+  {
+    "id": "el2",
+    "name": "Чехол Luxcase Magnet для Iphone 14",
+    "img": "./img/catalog/Luxcase-Magnet.jpg",
+    "price": 1599
+  },
+  {
+    "id": "el3",
+    "name": "Чехол Luxcase TPU Color для Iphone 14",
+    "img": "./img/catalog/Luxcase-TPU-Color.jpg",
+    "price": 999
+  },
+  {
+    "id": "el4",
+    "name": "Чехол Everstone Lucca Black для Iphone 14",
+    "img": "./img/catalog/Everstone-Lucca-Black.jpg",
+    "price": 1599
+  },
+  {
+    "id": "el5",
+    "name": "Чехол Everstone Card Case для Iphone 14",
+    "img": "./img/catalog/Everstone-Card-Case-Black.jpg",
+    "price": 1599
+  },
+  {
+    "id": "el6",
+    "name": "Чехол Everstone Lucca Purple для Iphone 14",
+    "img": "./img/catalog/Everstone-Lucca-purple.jpg",
+    "price": 600
+  },
+  {
+    "id": "el7",
+    "name": "Чехол Luxcase TPU Opacity для Iphone 14",
+    "img": "./img/catalog/Luxcase-TPU-Opacity.jpg",
+    "price": 1299
+  },
+  {
+    "id": "el8",
+    "name": "Чехол Apple Silicone для Iphone 14",
+    "img": "./img/catalog/Apple-Silicone-Black.jpg",
+    "price": 5499
+  },
+  {
+    "id": "el9",
+    "name": "Чехол Apple MagSafe Clear для Iphone 14",
+    "img": "./img/catalog/Apple-MagSafe-Clear.jpg",
+    "price": 5499
+  }
+]
